@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "LifeTrack",
+    "slug": "lifetrack-app",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": { "backgroundColor": "#0F172A" },
+    "ios": { "supportsTablet": false, "bundleIdentifier": "com.yourname.lifetrack" },
+    "android": { "package": "com.yourname.lifetrack" }
+  }
+}
